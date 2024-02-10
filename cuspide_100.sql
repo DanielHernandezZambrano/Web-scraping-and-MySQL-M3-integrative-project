@@ -1,0 +1,6 @@
+CREATE DATABASE IF NOT EXISTS cuspide_100;
+
+USE cuspide_100;
+
+DROP TABLE IF EXISTS libros;
+DROP TABLE IF EXISTS auditoria_errores;
